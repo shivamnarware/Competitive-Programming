@@ -1,4 +1,4 @@
 # Competitive-Programming
 
-Include various topics question related to CP
+Include various topics questions related to CP
 * Number Theory
